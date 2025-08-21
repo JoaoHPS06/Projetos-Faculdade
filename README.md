@@ -21,7 +21,7 @@ Implementação em Python de conceitos fundamentais de Redes de Computadores.
 
 ---
 
-### 🔹 [TP-BD1](./TP-BD1)
+### 🔹 [TP-BD1](./TP-BD)
 Trabalho prático da disciplina **Banco de Dados I**.  
 **Tecnologias:** SQL, Python  
 
