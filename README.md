@@ -39,4 +39,3 @@ Projeto acadêmico em grupo para unificar a oferta e procura de atividades extra
 - Email: *joao.2014@hotmail.com.br*  
 
 ---
-⭐ Se gostou dos projetos, fique à vontade para acompanhar meu perfil!
