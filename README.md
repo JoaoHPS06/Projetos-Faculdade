@@ -8,7 +8,6 @@ O objetivo é mostrar minhas experiências acadêmicas e práticas em programaç
 ## 📌 Sobre mim
 - 🎓 Estudante de Ciência da Computação (5º período – UFOP)  
 - 💻 Interesse em **Engenharia de Software, Inteligência Artificial e Ciência de Dados**  
-- 🔬 Áreas de pesquisa: **Visão Computacional** e **Aprendizado de Máquina**  
 - 🌍 Aberto a oportunidades de estágio para aplicar e expandir meus conhecimentos  
 
 ---
